@@ -1,0 +1,135 @@
+D:\OnlineEMS\BLL\bin\Debug\BLL.dll
+D:\OnlineEMS\BLL\bin\Debug\BLL.pdb
+D:\OnlineEMS\BLL\bin\Debug\Models.dll
+D:\OnlineEMS\BLL\bin\Debug\Repository.dll
+D:\OnlineEMS\BLL\bin\Debug\Models.pdb
+D:\OnlineEMS\BLL\bin\Debug\Repository.pdb
+D:\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\OnlineEMS\BLL\obj\Debug\BLL.dll
+D:\OnlineEMS\BLL\obj\Debug\BLL.pdb
+D:\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+D:\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+D:\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+D:\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+D:\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+D:\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\BLL.dll
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\BLL.pdb
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\Models.dll
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\Repository.dll
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\Models.pdb
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\Repository.pdb
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+D:\ProjectWork\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+D:\ProjectWork\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\ProjectWork\OnlineEMS\BLL\obj\Debug\BLL.dll
+D:\ProjectWork\OnlineEMS\BLL\obj\Debug\BLL.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\BLL.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\BLL.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\Models.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\Repository.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\Models.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\Repository.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\obj\Debug\BLL.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\BLL\obj\Debug\BLL.pdb
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\BLL.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\BLL.pdb
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\Models.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\Repository.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\Models.pdb
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\Repository.pdb
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+E:\Kamruzzaman-50\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman-50\OnlineEMS\BLL\obj\Debug\BLL.dll
+E:\Kamruzzaman-50\OnlineEMS\BLL\obj\Debug\BLL.pdb
+G:\GitManage\OnlineEMS\BLL\bin\Debug\BLL.dll
+G:\GitManage\OnlineEMS\BLL\bin\Debug\BLL.pdb
+G:\GitManage\OnlineEMS\BLL\bin\Debug\Models.dll
+G:\GitManage\OnlineEMS\BLL\bin\Debug\Repository.dll
+G:\GitManage\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+G:\GitManage\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+G:\GitManage\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+G:\GitManage\OnlineEMS\BLL\bin\Debug\Models.pdb
+G:\GitManage\OnlineEMS\BLL\bin\Debug\Repository.pdb
+G:\GitManage\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+G:\GitManage\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+G:\GitManage\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+G:\GitManage\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+G:\GitManage\OnlineEMS\BLL\obj\Debug\BLL.dll
+G:\GitManage\OnlineEMS\BLL\obj\Debug\BLL.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\BLL.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\BLL.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\Models.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\Repository.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\Models.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\Repository.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\obj\Debug\BLL.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\BLL\obj\Debug\BLL.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\BLL.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\BLL.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\Models.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\Repository.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\EntityFramework.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\Models.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\Repository.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\System.Web.Mvc.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\EntityFramework.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\bin\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\obj\Debug\BLL.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\BLL\obj\Debug\BLL.pdb
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\BLL.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\BLL.pdb
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\Models.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\Repository.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\System.Web.Mvc.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\EntityFramework.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\DatabaseContext.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\Models.pdb
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\Repository.pdb
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\System.Web.Mvc.xml
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\EntityFramework.xml
+C:\Users\micron\Downloads\ExamManagement-master\BLL\bin\Debug\DatabaseContext.pdb
+C:\Users\micron\Downloads\ExamManagement-master\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+C:\Users\micron\Downloads\ExamManagement-master\BLL\obj\Debug\BLL.dll
+C:\Users\micron\Downloads\ExamManagement-master\BLL\obj\Debug\BLL.pdb
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\BLL.dll
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\BLL.pdb
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\Models.dll
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\Repository.dll
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\System.Web.Mvc.dll
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\EntityFramework.dll
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\DatabaseContext.dll
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\Models.pdb
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\Repository.pdb
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\System.Web.Mvc.xml
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\EntityFramework.xml
+D:\OnlineExam\ExamManagement\BLL\bin\Debug\DatabaseContext.pdb
+D:\OnlineExam\ExamManagement\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+D:\OnlineExam\ExamManagement\BLL\obj\Debug\BLL.dll
+D:\OnlineExam\ExamManagement\BLL\obj\Debug\BLL.pdb

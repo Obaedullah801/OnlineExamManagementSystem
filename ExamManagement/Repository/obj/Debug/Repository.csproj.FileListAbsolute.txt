@@ -1,0 +1,144 @@
+D:\OnlineEMS\Repository\bin\Debug\Repository.dll
+D:\OnlineEMS\Repository\bin\Debug\Repository.pdb
+D:\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+D:\OnlineEMS\Repository\bin\Debug\Models.dll
+D:\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+D:\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+D:\OnlineEMS\Repository\bin\Debug\Models.pdb
+D:\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+D:\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\OnlineEMS\Repository\obj\Debug\Repository.dll
+D:\OnlineEMS\Repository\obj\Debug\Repository.pdb
+D:\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+D:\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+D:\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\Repository.dll
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\Repository.pdb
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\Models.dll
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\Models.pdb
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectWork\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+D:\ProjectWork\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\ProjectWork\OnlineEMS\Repository\obj\Debug\Repository.dll
+D:\ProjectWork\OnlineEMS\Repository\obj\Debug\Repository.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\Repository.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\Repository.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\Models.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\Models.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\obj\Debug\Repository.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\Repository\obj\Debug\Repository.pdb
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\Repository.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\Repository.pdb
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\Models.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\Models.pdb
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kamruzzaman-50\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+E:\Kamruzzaman-50\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman-50\OnlineEMS\Repository\obj\Debug\Repository.dll
+E:\Kamruzzaman-50\OnlineEMS\Repository\obj\Debug\Repository.pdb
+G:\GitManage\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+G:\GitManage\OnlineEMS\Repository\bin\Debug\Repository.dll
+G:\GitManage\OnlineEMS\Repository\bin\Debug\Repository.pdb
+G:\GitManage\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+G:\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+G:\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+G:\GitManage\OnlineEMS\Repository\bin\Debug\Models.dll
+G:\GitManage\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+G:\GitManage\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+G:\GitManage\OnlineEMS\Repository\bin\Debug\Models.pdb
+G:\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+G:\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+G:\GitManage\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+G:\GitManage\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+G:\GitManage\OnlineEMS\Repository\obj\Debug\Repository.dll
+G:\GitManage\OnlineEMS\Repository\obj\Debug\Repository.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\Repository.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\Repository.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\Models.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\Models.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\obj\Debug\Repository.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\Repository\obj\Debug\Repository.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\Repository.dll.config
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\Repository.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\Repository.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\Models.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\Models.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\bin\Debug\System.Web.Mvc.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\obj\Debug\Repository.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\Repository\obj\Debug\Repository.pdb
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\Repository.dll.config
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\Repository.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\Repository.pdb
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\DatabaseContext.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\EntityFramework.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\Models.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\System.Web.Mvc.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\DatabaseContext.pdb
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\Models.pdb
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\EntityFramework.xml
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micron\Downloads\ExamManagement-master\Repository\bin\Debug\System.Web.Mvc.xml
+C:\Users\micron\Downloads\ExamManagement-master\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+C:\Users\micron\Downloads\ExamManagement-master\Repository\obj\Debug\Repository.dll
+C:\Users\micron\Downloads\ExamManagement-master\Repository\obj\Debug\Repository.pdb
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\Repository.dll.config
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\Repository.dll
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\Repository.pdb
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\DatabaseContext.dll
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\EntityFramework.dll
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\EntityFramework.SqlServer.dll
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\Models.dll
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\System.Web.Mvc.dll
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\DatabaseContext.pdb
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\Models.pdb
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\EntityFramework.xml
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\EntityFramework.SqlServer.xml
+D:\OnlineExam\ExamManagement\Repository\bin\Debug\System.Web.Mvc.xml
+D:\OnlineExam\ExamManagement\Repository\obj\Debug\Repository.csprojResolveAssemblyReference.cache
+D:\OnlineExam\ExamManagement\Repository\obj\Debug\Repository.dll
+D:\OnlineExam\ExamManagement\Repository\obj\Debug\Repository.pdb

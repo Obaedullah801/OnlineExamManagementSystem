@@ -1,0 +1,186 @@
+D:\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+D:\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+D:\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+D:\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+D:\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+D:\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+D:\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+D:\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+D:\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+D:\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+D:\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\ProjectWork\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+D:\ProjectWork\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\Practice Work\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+G:\GitManage\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Addisdeletedfieldinallfields.resources
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Addisdeletedfieldinallfields.resources
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+E:\2018\BITM-50\BITM Project\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_Required_Anntation_Added.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\Models.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\Models.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Addisdeletedfieldinallfields.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_Required_Anntation_Added.resources
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.dll
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.pdb
+E:\Kamruzzaman-50\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.CourseModelUpdated.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_Required_Anntation_Added.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.CourseModelUpdated.resources
+G:\GitManage\OnlineEMS\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_New_Porperty_AddedLike_Organization_Course_Update.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\DatabaseContext.dll
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\DatabaseContext.pdb
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\EntityFramework.dll
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\Models.dll
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\Models.pdb
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\EntityFramework.xml
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Addisdeletedfieldinallfields.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_Required_Anntation_Added.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.CourseModelUpdated.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_New_Porperty_AddedLike_Organization_Course_Update.resources
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.dll
+C:\Users\micron\Downloads\ExamManagement-master\DatabaseContext\obj\Debug\DatabaseContext.pdb
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\DatabaseContext.dll.config
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\DatabaseContext.dll
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\DatabaseContext.pdb
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\EntityFramework.dll
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\Models.dll
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\System.Web.Mvc.dll
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\Models.pdb
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\EntityFramework.xml
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\OnlineExam\ExamManagement\DatabaseContext\bin\Debug\System.Web.Mvc.xml
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.csprojResolveAssemblyReference.cache
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Organization_Model_Created.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Course_Model_created_Update.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Exam_Participant_Trainer_ModelCreated.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Addisdeletedfieldinallfields.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_Required_Anntation_Added.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.CourseModelUpdated.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.Migrations.Batch_Model_New_Porperty_AddedLike_Organization_Course_Update.resources
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.csproj.GenerateResource.Cache
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.dll
+D:\OnlineExam\ExamManagement\DatabaseContext\obj\Debug\DatabaseContext.pdb
