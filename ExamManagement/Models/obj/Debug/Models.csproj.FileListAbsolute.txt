@@ -83,6 +83,5 @@ D:\OnlineExam\ExamManagement\Models\bin\Debug\System.Web.Mvc.dll
 D:\OnlineExam\ExamManagement\Models\bin\Debug\EntityFramework.xml
 D:\OnlineExam\ExamManagement\Models\bin\Debug\EntityFramework.SqlServer.xml
 D:\OnlineExam\ExamManagement\Models\bin\Debug\System.Web.Mvc.xml
-D:\OnlineExam\ExamManagement\Models\obj\Debug\Models.csprojResolveAssemblyReference.cache
 D:\OnlineExam\ExamManagement\Models\obj\Debug\Models.dll
 D:\OnlineExam\ExamManagement\Models\obj\Debug\Models.pdb
